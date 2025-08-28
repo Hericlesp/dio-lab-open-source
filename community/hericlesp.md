@@ -1,5 +1,3 @@
-
-
 ---------------------------
 
 # 👋 Olá, eu sou Hericles Paulo!
@@ -39,7 +37,6 @@ O bootcamp me proporcionou aprendizados práticos que complementaram minha forma
    <img  align="center"  height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
 
 
-
 - 🐍 Python
 _ 🎲 SQL
 - 🌐 Desenvolvimento Web
@@ -59,4 +56,5 @@ Atualmente, meu objetivo é seguir aprimorando minhas habilidades técnicas, amp
 
 ---
 
-> 🧩 _"A tecnologia une a solução ao criativo ser."_
+> 🧩 _"A tecnologia une a solução a ao criativo ser."_
+
